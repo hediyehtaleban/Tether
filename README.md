@@ -14,5 +14,5 @@ Open [https://xtal.ir/userv](https://xtal.ir/userv) with your browser to see the
 
 <br/>
 <br/>
-<img src="https://github.com/hediyehtaleban/Tether/blob/master/test.png.png?raw=true" />
+<img src="https://github.com/hediyehtaleban/Tether/blob/master/test.png?raw=true" />
 <br/>
